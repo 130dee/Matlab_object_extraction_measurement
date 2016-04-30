@@ -1,6 +1,5 @@
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %
-%   Derek Conway C12728815
 %   Image Processing Class Test 28/04/16
 %   Draw a line through the centre of the ruler,
 %   Get the pixels per cm
@@ -22,11 +21,6 @@
 %   points.
 %   As such the algorithm will most likely only work on this image.
 %   
-%   That's all from me and thanks for you efforts sharing your knowledge of
-%   Matlab, Its a program that I will enjoy using in the future. With the
-%   focus on completing the year, I couldn't spend as much time with it as
-%   I would like. Your assignments have been fun too, and I'm now off to
-%   complete the project.
 
 
 clc % clear screen
