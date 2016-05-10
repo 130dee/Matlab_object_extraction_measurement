@@ -97,7 +97,7 @@ plot(xValue,yValue,'LineWidth',2,'Color','Red');
 
 %pythagarous theorum to get the length of the line from 2 points
 
-lengthOfLine = sqrt(abs((xValue(1))-(xValue(2))^2)+abs((yValue(1))-(yValue(2))^2));
+lengthOfLine = sqrt((abs((xValue(1)-xValue(2))^2))+(abs((yValue(1)- yValue(2))^2)));
 pixelsPerCm = int64(lengthOfLine/16);
 outputString = sprintf('There are %d pixels per cm on the image',pixelsPerCm);
 
